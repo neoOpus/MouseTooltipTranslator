@@ -373,9 +373,10 @@ var ocrLangList = {
 };
 
 var translatorList = {
-  google: "google",
-  "google_sub(Experimental)": "googleSub",
-  bing: "bing",
+  Google: "google",
+  "Google_sub(Experimental)": "googleSub",
+  Bing: "bing",
+  DeepL: "deepl",
 };
 
 var translateActionList = {
