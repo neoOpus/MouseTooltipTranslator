@@ -154,7 +154,7 @@ let bingAccessToken;
 let googleBaseUrlMain =
   "https://clients5.google.com/translate_a/single?dj=1&dt=t&dt=sp&dt=ld&dt=bd&client=dict-chrome-ex&";
 let googleBaseUrlSub ="https://translate.googleapis.com/translate_a/single?client=gtx&dt=t&dt=bd&dj=1&";
-  
+let deeplBaseUrl = "";
 let bingBaseUrl = "https://www.bing.com/ttranslatev3?isVertical=1\u0026&";
 
 async function doTranslate(request, sendResponse) {
@@ -170,6 +170,12 @@ async function doTranslate(request, sendResponse) {
         request.word,
         request.translateTarget,
         googleBaseUrlSub
+      );
+    } else if(currentSetting["translatorVendor"] == "DeepL"){
+      var { translatedText, detectedLang } = await translateWithDeepL(
+        request.word,
+        request.translateTarget,
+        deeplBaseUrlSub
       );
     } else {
       var { translatedText, detectedLang } = await translateWithBing(
@@ -208,6 +214,29 @@ async function translateWithGoogle(word, targetLang,googleBaseUrl) {
       }
     });
     var detectedLang = res.src;
+    return { translatedText, detectedLang };
+  } else {
+    return null;
+  }
+}
+
+
+async function translateWithDeepL(word, targetLang) {
+  const { token, key, IG, IID } = await getBingAccessToken();
+
+  let res = await postMessage(deeplBaseUrl, {
+    text: word,
+    fromLang: deeplLangCode[currentSetting["translateSource"]],
+    to: bingLangCode[targetLang],
+    token,
+    key,
+    IG,
+    IID: IID && IID.length ? IID + "." + bingAccessToken.count++ : "",
+  });
+  if (res && res[0]) {
+    var detectedLang =
+      bingLangCodeOpposite[res[0]["detectedLanguage"]["language"]];
+    var translatedText = res[0]["translations"][0]["text"];
     return { translatedText, detectedLang };
   } else {
     return null;
