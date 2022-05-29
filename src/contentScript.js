@@ -54,6 +54,7 @@ $(document).ready(function() {
       "width": "500px",
       "margin-left": "-250px",
       "background-color": "#00000000", //transparent
+      "backdrop-filter": "blur(12px)", // Mica effect
       "pointer-events": "none" //click through
     }
   }).appendTo(document.body);
