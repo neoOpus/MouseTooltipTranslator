@@ -11,7 +11,7 @@ Proletarier aller Länder, vereinigt euch!
 ```
 
   - إذا لم تكن الترجمة تعمل ، تحقق من اللغة المستهدفة الحالية
-    - تحقق [كيفية تغيير اللغة] (https://github.com/ttop32/mousetooltiptranslator/blob/main/doc/intro.md#change-language)
+    - تحقق [كيفية تغيير اللغة](https://github.com/ttop32/mousetooltiptranslator/blob/main/doc/intro.md#change-language)
     - سيحذف هذا المترجم النص إذا كانت اللغات المصدر والهدف متطابقة.
 
 
