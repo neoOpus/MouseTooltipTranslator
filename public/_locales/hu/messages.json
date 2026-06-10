@@ -1,15 +1,12 @@
 {
-	"Main______________________________________": {
-		"message": "Main                                      "
+	"MAIN______________________________________": {
+		"message": "MAIN                                      "
+	},
+	"MAIN": {
+		"message": "MAIN"
 	},
 	"Mouse_Tooltip_Translator": {
 		"message": "Mouse Tooltip Translator"
-	},
-	"Show_Tooltip_When": {
-		"message": "Show Tooltip When"
-	},
-	"Voice_When": {
-		"message": "Voice When"
 	},
 	"Translate_When": {
 		"message": "Translate When"
@@ -23,17 +20,86 @@
 	"Translator_Engine": {
 		"message": "Translator Engine"
 	},
-	"Text_Detect_Type": {
-		"message": "Text Detect Type"
+	"LLM_Provider": {
+		"message": "LLM Provider"
+	},
+	"LLM_Api_Endpoint": {
+		"message": "LLM API Endpoint URL"
+	},
+	"LLM_Api_Key": {
+		"message": "LLM API Key"
+	},
+	"LLM_Model": {
+		"message": "LLM Model"
+	},
+	"Mouseover_Text_Type": {
+		"message": "Mouseover Text Type"
+	},
+	"Translate_Into_2": {
+		"message": "Secondary Translate Into"
 	},
 	"Writing_Language": {
 		"message": "Writing Language"
 	},
-	"OCR_Detection_Language": {
-		"message": "OCR Detection Language"
+	"Reverse_Translate_Language": {
+		"message": "Reverse Translate Language"
 	},
-	"Visual______________________________________": {
-		"message": "Visual                                      "
+	"OCR_Language": {
+		"message": "OCR Language"
+	},
+	"Detect_Subtitle": {
+		"message": "Detect Subtitle"
+	},
+	"KEYBOARD______________________________________": {
+		"message": "KEYBOARD                                      "
+	},
+	"KEYBOARD": {
+		"message": "KEYBOARD"
+	},
+	"Show_Tooltip_When": {
+		"message": "Show Tooltip When"
+	},
+	"Voice_When": {
+		"message": "Voice When"
+	},
+	"Translate_Writing_When": {
+		"message": "Translate Writing When"
+	},
+	"Auto_Reader_When": {
+		"message": "Auto Reader When"
+	},
+	"Translate_Page_When": {
+		"message": "Translate Page When"
+	},
+	"OCR_When": {
+		"message": "OCR When"
+	},
+	"Mouseover_Text_Type_Swap_Key": {
+		"message": "Mouseover Text Type Swap Key"
+	},
+	"Speech_Recognition_When": {
+		"message": "Speech Recognition When"
+	},
+	"Toggle_Mouseover_Text_Type_When": {
+		"message": "Toggle Mouseover Text Type When"
+	},
+	"Mouseover_Text_Type_Key_Hold": {
+		"message": "Mouseover Text Type Key Hold"
+	},
+	"Secondary_Language_When": {
+		"message": "Secondary Language When"
+	},
+	"Swap_Key_Toggle_Mode": {
+		"message": "Swap Key Toggle Mode"
+	},
+	"Toggle_Extension_When": {
+		"message": "Toggle Extension When"
+	},
+	"GRAPHIC______________________________________": {
+		"message": "GRAPHIC                                      "
+	},
+	"GRAPHIC": {
+		"message": "GRAPHIC"
 	},
 	"Tooltip_Font_Size": {
 		"message": "Tooltip Font Size"
@@ -44,6 +110,12 @@
 	"Tooltip_Distance": {
 		"message": "Tooltip Distance"
 	},
+	"Tooltip_Animation": {
+		"message": "Tooltip Animation"
+	},
+	"Tooltip_Disappear_Duration": {
+		"message": "Tooltip Disappear Duration"
+	},
 	"Tooltip_Position": {
 		"message": "Tooltip Position"
 	},
@@ -53,53 +125,173 @@
 	"Tooltip_Background_Blur": {
 		"message": "Tooltip Background Blur"
 	},
+	"Mouseover_Highlight_Text": {
+		"message": "Mouseover Highlight Text"
+	},
 	"Tooltip_Font_Color": {
 		"message": "Tooltip Font Color"
 	},
 	"Tooltip_Background_Color": {
 		"message": "Tooltip Background Color"
 	},
-	"Voice______________________________________": {
-		"message": "Voice                                      "
+	"Tooltip_Border_Color": {
+		"message": "Tooltip Border Color"
 	},
-	"TTS_Speed": {
-		"message": "TTS Speed"
+	"Mouseover_Text_Highlight_Color": {
+		"message": "Mouseover Text Highlight Color"
 	},
-	"TTS_Volume": {
-		"message": "TTS Volume"
+	"Setting_Compact_mode": {
+		"message": "Setting Compact mode"
+	},
+	"VOICE______________________________________": {
+		"message": "VOICE                                      "
+	},
+	"VOICE": {
+		"message": "VOICE"
+	},
+	"Voice_Volume": {
+		"message": "Voice Volume"
+	},
+	"Voice_Speed": {
+		"message": "Voice Speed"
+	},
+	"Voice_Target": {
+		"message": "Voice Target"
+	},
+	"Voice_Repeat": {
+		"message": "Voice Repeat"
 	},
 	"Voice_for_": {
 		"message": "Voice for "
 	},
-	"ADVANCED______________________________________": {
-		"message": "ADVANCED                                      "
-	},
-	"Translate_Writing_Hotkey": {
-		"message": "Translate Writing Hotkey"
-	},
-	"OCR_When": {
-		"message": "OCR When"
-	},
-	"Detect_Type_Swap_Hold_Key": {
-		"message": "Detect Type Swap Hold Key"
-	},
-	"Enable_Youtube_Subtitle": {
-		"message": "Enable Youtube Subtitle"
-	},
-	"Detect_PDF": {
-		"message": "Detect PDF"
-	},
-	"Reverse_Translate_Language": {
-		"message": "Reverse Translate Language"
+	"Voice_speed_for_": {
+		"message": "Voice speed for "
 	},
 	"EXCLUDE______________________________________": {
 		"message": "EXCLUDE                                      "
 	},
+	"EXCLUDE": {
+		"message": "EXCLUDE"
+	},
 	"Exclude_Language": {
 		"message": "Exclude Language"
 	},
+	"Website_Filter_Mode": {
+		"message": "Website Filter Mode"
+	},
 	"Exclude_Website": {
 		"message": "Exclude Website"
+	},
+	"Whitelist_Website": {
+		"message": "Whitelist Website"
+	},
+	"Block_Current_Site": {
+		"message": "Block Current Site"
+	},
+	"Allow_Current_Site": {
+		"message": "Allow Current Site"
+	},
+	"ADVANCED______________________________________": {
+		"message": "ADVANCED                                      "
+	},
+	"ADVANCED": {
+		"message": "ADVANCED"
+	},
+	"UI_Language": {
+		"message": "UI Language"
+	},
+	"Detect_PDF": {
+		"message": "Detect PDF"
+	},
+	"Mouseover_Text_Type_2": {
+		"message": "Secondary Mouseover Text Type"
+	},
+	"Mouseover_Pause_Subtitle": {
+		"message": "Mouseover Pause Subtitle"
+	},
+	"Show_Tooltip_While_Typing": {
+		"message": "Show Tooltip While Typing"
+	},
+	"Tooltip_Info_Source_Text": {
+		"message": "Tooltip Info Source Text"
+	},
+	"Tooltip_Info_Source_Language": {
+		"message": "Tooltip Info Source Language"
+	},
+	"Tooltip_Info_Transliteration": {
+		"message": "Tooltip Info Transliteration"
+	},
+	"Tooltip_Interval_Time": {
+		"message": "Tooltip Interval Time"
+	},
+	"Tooltip_Show_Delay": {
+		"message": "Tooltip Show Delay"
+	},
+	"Tooltip_Word_Dictionary": {
+		"message": "Tooltip Word Dictionary"
+	},
+	"Tooltip_Word_Dictionary_Source": {
+		"message": "Tooltip Word Dictionary Source"
+	},
+	"Voice_Translated_Speed": {
+		"message": "Voice Translated Speed"
+	},
+	"Fallback_Translator_Engine": {
+		"message": "Fallback Translator Engine"
+	},
+	"SPEECH": {
+		"message": "SPEECH"
+	},
+	"Speech_Recognition_Language": {
+		"message": "Speech Recognition Language"
+	},
+	"Voice_Panel_Translate_Language": {
+		"message": "Voice Panel Translate Language"
+	},
+	"Voice_Panel_Text_Target": {
+		"message": "Voice Panel Text Target"
+	},
+	"Voice_Panel_Padding": {
+		"message": "Voice Panel Padding"
+	},
+	"Voice_Panel_Text_Align": {
+		"message": "Voice Panel Text Align"
+	},
+	"Voice_Panel_Source_Font_Size": {
+		"message": "Voice Panel Source Font Size"
+	},
+	"Voice_Panel_Target_Font_Size": {
+		"message": "Voice Panel Target Font Size"
+	},
+	"Voice_Panel_Source_Font_Color": {
+		"message": "Voice Panel Source Font Color"
+	},
+	"Voice_Panel_Target_Font_Color": {
+		"message": "Voice Panel Target Font Color"
+	},
+	"Voice_Panel_Source_Border_Color": {
+		"message": "Voice Panel Source Border Color"
+	},
+	"Voice_Panel_Target_Border_Color": {
+		"message": "Voice Panel Target Border Color"
+	},
+	"Voice_Panel_Background_Color": {
+		"message": "Voice Panel Background Color"
+	},
+	"BACKUP______________________________________": {
+		"message": "BACKUP                                      "
+	},
+	"BACKUP": {
+		"message": "BACKUP"
+	},
+	"Import_Setting": {
+		"message": "Import Setting"
+	},
+	"Export_Setting": {
+		"message": "Export Setting"
+	},
+	"Reset_Setting": {
+		"message": "Reset Setting"
 	},
 	"About______________________________________": {
 		"message": "About                                      "
@@ -122,6 +314,12 @@
 	"Translate_local_ebook_file": {
 		"message": "Translate local ebook file"
 	},
+	"Twitter": {
+		"message": "Twitter"
+	},
+	"Retweet_twitter_post": {
+		"message": "Retweet twitter post"
+	},
 	"Review_Page": {
 		"message": "Review Page"
 	},
@@ -140,13 +338,292 @@
 	"User_privacy_policy": {
 		"message": "User privacy policy"
 	},
+	"Voice_Panel": {
+		"message": "Voice Panel"
+	},
+	"Translate_Voice": {
+		"message": "Translate Voice"
+	},
+	"Review______________________________________": {
+		"message": "Review                                      "
+	},
+	"Review_this": {
+		"message": "Review this"
+	},
+	"Developer_love_criticism": {
+		"message": "Developer love criticism"
+	},
+	"Coffee______________________________________": {
+		"message": "Coffee                                      "
+	},
+	"Support_this_extension": {
+		"message": "Support this extension"
+	},
+	"Feed_a_coffee_to_the_extension_devs": {
+		"message": "Feed a coffee to the extension devs"
+	},
 	"Title______________________________________": {
 		"message": "Title                                      "
+	},
+	"SELECT_OPTION______________________________": {
+		"message": "SELECT OPTION                              "
+	},
+	"On": {
+		"message": "On"
+	},
+	"Off": {
+		"message": "Off"
+	},
+	"Auto": {
+		"message": "Auto"
+	},
+	"None": {
+		"message": "None"
+	},
+	"Select": {
+		"message": "Select"
+	},
+	"Mouseover": {
+		"message": "Mouseover"
+	},
+	"Mouseover_n_Select": {
+		"message": "Mouseover n Select"
+	},
+	"Follow": {
+		"message": "Follow"
+	},
+	"Fixed": {
+		"message": "Fixed"
+	},
+	"Top_Right": {
+		"message": "Top Right"
+	},
+	"Fade": {
+		"message": "Fade"
+	},
+	"Scale": {
+		"message": "Scale"
+	},
+	"Shift_away": {
+		"message": "Shift away"
+	},
+	"Shift_toward": {
+		"message": "Shift toward"
+	},
+	"Perspective": {
+		"message": "Perspective"
+	},
+	"Word": {
+		"message": "Word"
+	},
+	"Sentence": {
+		"message": "Sentence"
+	},
+	"Container": {
+		"message": "Container"
+	},
+	"Both": {
+		"message": "Both"
+	},
+	"Blacklist": {
+		"message": "Blacklist"
+	},
+	"Whitelist": {
+		"message": "Whitelist"
+	},
+	"Source": {
+		"message": "Source"
+	},
+	"Source_Text": {
+		"message": "Source Text"
+	},
+	"Translated_Text": {
+		"message": "Translated Text"
+	},
+	"Source_n_Translated": {
+		"message": "Source n Translated"
+	},
+	"Translated_n_Source": {
+		"message": "Translated n Source"
+	},
+	"Dual_Subtitle": {
+		"message": "Dual Subtitle"
+	},
+	"Target_Single_Subtitle": {
+		"message": "Target Single Subtitle"
+	},
+	"Source_Single_Subtitle": {
+		"message": "Source Single Subtitle"
+	},
+	"Always": {
+		"message": "Always"
+	},
+	"Center": {
+		"message": "Center"
+	},
+	"Left": {
+		"message": "Left"
+	},
+	"Right": {
+		"message": "Right"
+	},
+	"Justify": {
+		"message": "Justify"
+	},
+	"Default": {
+		"message": "Default"
+	},
+	"Ctrl_Left": {
+		"message": "Ctrl Left"
+	},
+	"Ctrl_Right": {
+		"message": "Ctrl Right"
+	},
+	"Alt_Left": {
+		"message": "Alt Left"
+	},
+	"Alt_Right": {
+		"message": "Alt Right"
+	},
+	"Shift_Left": {
+		"message": "Shift Left"
+	},
+	"Shift_Right": {
+		"message": "Shift Right"
+	},
+	"Meta_Left": {
+		"message": "Meta Left"
+	},
+	"Meta_Right": {
+		"message": "Meta Right"
+	},
+	"Click_Left": {
+		"message": "Click Left"
+	},
+	"Click_Middle": {
+		"message": "Click Middle"
+	},
+	"Click_Right": {
+		"message": "Click Right"
+	},
+	"google": {
+		"message": "google"
+	},
+	"bing": {
+		"message": "bing"
+	},
+	"Saved_Words": {
+		"message": "Saved Words"
+	},
+	"Group": {
+		"message": "Group"
+	},
+	"All": {
+		"message": "All"
+	},
+	"Move_to_group": {
+		"message": "Move to group"
+	},
+	"Delete": {
+		"message": "Delete"
+	},
+	"Clear": {
+		"message": "Clear"
+	},
+	"selected": {
+		"message": "selected"
+	},
+	"Date": {
+		"message": "Date"
+	},
+	"Translation": {
+		"message": "Translation"
+	},
+	"No_saved_words_yet": {
+		"message": "No saved words yet"
+	},
+	"Manage_Groups": {
+		"message": "Manage Groups"
+	},
+	"Remove_all": {
+		"message": "Remove all"
+	},
+	"Import_CSV": {
+		"message": "Import CSV"
+	},
+	"Download_CSV": {
+		"message": "Download CSV"
+	},
+	"Save_key": {
+		"message": "Save key"
+	},
+	"Highlight_on_page": {
+		"message": "Highlight on page"
+	},
+	"Right_click_menu": {
+		"message": "Right click menu"
+	},
+	"Add_right_click_context_menu": {
+		"message": "Add right click context menu"
+	},
+	"Done": {
+		"message": "Done"
+	},
+	"On_Select": {
+		"message": "On Select"
+	},
+	"On_Hover": {
+		"message": "On Hover"
+	},
+	"On_Select_n_Hover": {
+		"message": "On Select n Hover"
+	},
+	"Select_group_to_play": {
+		"message": "Select group to play"
+	},
+	"No_Group_Selected": {
+		"message": "No Group Selected"
+	},
+	"Check_groups_to_play": {
+		"message": "Check groups to play"
+	},
+	"Flashcard_makes_cards_from_your_saved_words": {
+		"message": "Flashcard makes cards from your saved words"
 	},
 	"appName": {
 		"message": "Egér ToolTip fordító : subtitle & epub reader translator"
 	},
 	"appDesc": {
 		"message": "Egér ToolTip Translator fordítása MouseOver szöveget a Google Translate segítségével"
+	},
+	"Main______________________________________": {
+		"message": "Main                                      "
+	},
+	"Text_Detect_Type": {
+		"message": "Text Detect Type"
+	},
+	"OCR_Detection_Language": {
+		"message": "OCR Detection Language"
+	},
+	"Visual______________________________________": {
+		"message": "Visual                                      "
+	},
+	"Voice______________________________________": {
+		"message": "Voice                                      "
+	},
+	"TTS_Speed": {
+		"message": "TTS Speed"
+	},
+	"TTS_Volume": {
+		"message": "TTS Volume"
+	},
+	"Translate_Writing_Hotkey": {
+		"message": "Translate Writing Hotkey"
+	},
+	"Detect_Type_Swap_Hold_Key": {
+		"message": "Detect Type Swap Hold Key"
+	},
+	"Enable_Youtube_Subtitle": {
+		"message": "Enable Youtube Subtitle"
 	}
 }

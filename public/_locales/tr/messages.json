@@ -1,15 +1,12 @@
 {
-	"Main______________________________________": {
-		"message": "Main                                      "
+	"MAIN______________________________________": {
+		"message": "MAIN                                      "
+	},
+	"MAIN": {
+		"message": "ANA PANEL"
 	},
 	"Mouse_Tooltip_Translator": {
 		"message": "Mouse Tooltip Translator"
-	},
-	"Show_Tooltip_When": {
-		"message": "Show Tooltip When"
-	},
-	"Voice_When": {
-		"message": "Voice When"
 	},
 	"Translate_When": {
 		"message": "Translate When"
@@ -23,17 +20,86 @@
 	"Translator_Engine": {
 		"message": "Translator Engine"
 	},
-	"Text_Detect_Type": {
-		"message": "Text Detect Type"
+	"LLM_Provider": {
+		"message": "LLM Provider"
+	},
+	"LLM_Api_Endpoint": {
+		"message": "LLM API Endpoint URL"
+	},
+	"LLM_Api_Key": {
+		"message": "LLM API Key"
+	},
+	"LLM_Model": {
+		"message": "LLM Model"
+	},
+	"Mouseover_Text_Type": {
+		"message": "Fare Hareketi Yazı Tipi"
+	},
+	"Translate_Into_2": {
+		"message": "Secondary Translate Into"
 	},
 	"Writing_Language": {
 		"message": "Writing Language"
 	},
-	"OCR_Detection_Language": {
-		"message": "OCR Detection Language"
+	"Reverse_Translate_Language": {
+		"message": "Reverse Translate Language"
 	},
-	"Visual______________________________________": {
-		"message": "Visual                                      "
+	"OCR_Language": {
+		"message": "OCR Dili"
+	},
+	"Detect_Subtitle": {
+		"message": "Altyazı Algıla"
+	},
+	"KEYBOARD______________________________________": {
+		"message": "KEYBOARD                                      "
+	},
+	"KEYBOARD": {
+		"message": "KLAVYE"
+	},
+	"Show_Tooltip_When": {
+		"message": "Show Tooltip When"
+	},
+	"Voice_When": {
+		"message": "Voice When"
+	},
+	"Translate_Writing_When": {
+		"message": "Yazıyı Şu Durumda Çevir"
+	},
+	"Auto_Reader_When": {
+		"message": "Otomatik Okuyucu Ne Zaman"
+	},
+	"Translate_Page_When": {
+		"message": "Translate Page When"
+	},
+	"OCR_When": {
+		"message": "OCR When"
+	},
+	"Mouseover_Text_Type_Swap_Key": {
+		"message": "Üzerine Gelince Metin Türünü Değiştirme Tuşu"
+	},
+	"Speech_Recognition_When": {
+		"message": "Konuşma Tanıma Ne Zaman"
+	},
+	"Toggle_Mouseover_Text_Type_When": {
+		"message": "Toggle Mouseover Text Type When"
+	},
+	"Mouseover_Text_Type_Key_Hold": {
+		"message": "Mouseover Text Type Key Hold"
+	},
+	"Secondary_Language_When": {
+		"message": "Secondary Language When"
+	},
+	"Swap_Key_Toggle_Mode": {
+		"message": "Swap Key Toggle Mode"
+	},
+	"Toggle_Extension_When": {
+		"message": "Toggle Extension When"
+	},
+	"GRAPHIC______________________________________": {
+		"message": "GRAPHIC                                      "
+	},
+	"GRAPHIC": {
+		"message": "GRAPHIC"
 	},
 	"Tooltip_Font_Size": {
 		"message": "Tooltip Font Size"
@@ -44,6 +110,12 @@
 	"Tooltip_Distance": {
 		"message": "Tooltip Distance"
 	},
+	"Tooltip_Animation": {
+		"message": "İpucu Animasyonu"
+	},
+	"Tooltip_Disappear_Duration": {
+		"message": "Tooltip Disappear Duration"
+	},
 	"Tooltip_Position": {
 		"message": "Tooltip Position"
 	},
@@ -53,53 +125,173 @@
 	"Tooltip_Background_Blur": {
 		"message": "Tooltip Background Blur"
 	},
+	"Mouseover_Highlight_Text": {
+		"message": "Üzerine Gelince Metni Vurgula"
+	},
 	"Tooltip_Font_Color": {
 		"message": "Tooltip Font Color"
 	},
 	"Tooltip_Background_Color": {
 		"message": "Tooltip Background Color"
 	},
-	"Voice______________________________________": {
-		"message": "Voice                                      "
+	"Tooltip_Border_Color": {
+		"message": "İpucu Kenarlığı Rengi"
 	},
-	"TTS_Speed": {
-		"message": "TTS Speed"
+	"Mouseover_Text_Highlight_Color": {
+		"message": "Üzerine Gelince Metin Vurgu Rengi"
 	},
-	"TTS_Volume": {
-		"message": "TTS Volume"
+	"Setting_Compact_mode": {
+		"message": "Setting Compact mode"
+	},
+	"VOICE______________________________________": {
+		"message": "VOICE                                      "
+	},
+	"VOICE": {
+		"message": "VOICE"
+	},
+	"Voice_Volume": {
+		"message": "Ses Seviyesi"
+	},
+	"Voice_Speed": {
+		"message": "Ses Hızı"
+	},
+	"Voice_Target": {
+		"message": "Ses Hedefi"
+	},
+	"Voice_Repeat": {
+		"message": "Ses Tekrarı"
 	},
 	"Voice_for_": {
 		"message": "Voice for "
 	},
-	"ADVANCED______________________________________": {
-		"message": "ADVANCED                                      "
-	},
-	"Translate_Writing_Hotkey": {
-		"message": "Translate Writing Hotkey"
-	},
-	"OCR_When": {
-		"message": "OCR When"
-	},
-	"Detect_Type_Swap_Hold_Key": {
-		"message": "Detect Type Swap Hold Key"
-	},
-	"Enable_Youtube_Subtitle": {
-		"message": "Enable Youtube Subtitle"
-	},
-	"Detect_PDF": {
-		"message": "Detect PDF"
-	},
-	"Reverse_Translate_Language": {
-		"message": "Reverse Translate Language"
+	"Voice_speed_for_": {
+		"message": "Voice speed for "
 	},
 	"EXCLUDE______________________________________": {
 		"message": "EXCLUDE                                      "
 	},
+	"EXCLUDE": {
+		"message": "EXCLUDE"
+	},
 	"Exclude_Language": {
 		"message": "Exclude Language"
 	},
+	"Website_Filter_Mode": {
+		"message": "Website Filter Mode"
+	},
 	"Exclude_Website": {
 		"message": "Exclude Website"
+	},
+	"Whitelist_Website": {
+		"message": "Beyaz Liste Web Sitesi"
+	},
+	"Block_Current_Site": {
+		"message": "Block Current Site"
+	},
+	"Allow_Current_Site": {
+		"message": "Allow Current Site"
+	},
+	"ADVANCED______________________________________": {
+		"message": "ADVANCED                                      "
+	},
+	"ADVANCED": {
+		"message": "ADVANCED"
+	},
+	"UI_Language": {
+		"message": "UI Language"
+	},
+	"Detect_PDF": {
+		"message": "Detect PDF"
+	},
+	"Mouseover_Text_Type_2": {
+		"message": "Secondary Mouseover Text Type"
+	},
+	"Mouseover_Pause_Subtitle": {
+		"message": "Mouseover Pause Subtitle"
+	},
+	"Show_Tooltip_While_Typing": {
+		"message": "Show Tooltip While Typing"
+	},
+	"Tooltip_Info_Source_Text": {
+		"message": "İpucu Kaynak Metni"
+	},
+	"Tooltip_Info_Source_Language": {
+		"message": "Tooltip Info Source Language"
+	},
+	"Tooltip_Info_Transliteration": {
+		"message": "Tooltip Info Transliteration"
+	},
+	"Tooltip_Interval_Time": {
+		"message": "İpucu Süre Aralığı"
+	},
+	"Tooltip_Show_Delay": {
+		"message": "Tooltip Show Delay"
+	},
+	"Tooltip_Word_Dictionary": {
+		"message": "Tooltip Kelime Sözlüğü"
+	},
+	"Tooltip_Word_Dictionary_Source": {
+		"message": "Tooltip Word Dictionary Source"
+	},
+	"Voice_Translated_Speed": {
+		"message": "Sesli Çeviri Hızı"
+	},
+	"Fallback_Translator_Engine": {
+		"message": "Yedek Çevirmen Motoru"
+	},
+	"SPEECH": {
+		"message": "Konuşma"
+	},
+	"Speech_Recognition_Language": {
+		"message": "Konuşma Tanıma Dili"
+	},
+	"Voice_Panel_Translate_Language": {
+		"message": "Ses Paneli Dil Çevirme"
+	},
+	"Voice_Panel_Text_Target": {
+		"message": "Ses Paneli Metin Hedefi"
+	},
+	"Voice_Panel_Padding": {
+		"message": "Ses Paneli Dolgusu"
+	},
+	"Voice_Panel_Text_Align": {
+		"message": "Ses Paneli Metin Hizalama"
+	},
+	"Voice_Panel_Source_Font_Size": {
+		"message": "Ses Paneli Kaynak Yazı Tipi Boyutu"
+	},
+	"Voice_Panel_Target_Font_Size": {
+		"message": "Ses Paneli Hedef Yazı Tipi Boyutu"
+	},
+	"Voice_Panel_Source_Font_Color": {
+		"message": "Ses Paneli Kaynak Yazı Tipi Rengi"
+	},
+	"Voice_Panel_Target_Font_Color": {
+		"message": "Ses Paneli Hedef Yazı Tipi Rengi"
+	},
+	"Voice_Panel_Source_Border_Color": {
+		"message": "Ses Paneli Kaynak Kenarlık Rengi"
+	},
+	"Voice_Panel_Target_Border_Color": {
+		"message": "Ses Paneli Hedef Kenarlık Rengi"
+	},
+	"Voice_Panel_Background_Color": {
+		"message": "Ses Paneli Arka Plan Rengi"
+	},
+	"BACKUP______________________________________": {
+		"message": "YEDEKLE                                      "
+	},
+	"BACKUP": {
+		"message": "YEDEKLE"
+	},
+	"Import_Setting": {
+		"message": "Ayarları İçe Aktar"
+	},
+	"Export_Setting": {
+		"message": "Ayarları Dışarı Aktar"
+	},
+	"Reset_Setting": {
+		"message": "Ayarları Sıfırla"
 	},
 	"About______________________________________": {
 		"message": "About                                      "
@@ -122,6 +314,12 @@
 	"Translate_local_ebook_file": {
 		"message": "Translate local ebook file"
 	},
+	"Twitter": {
+		"message": "Twitter"
+	},
+	"Retweet_twitter_post": {
+		"message": "Retweet twitter post"
+	},
 	"Review_Page": {
 		"message": "Review Page"
 	},
@@ -140,13 +338,292 @@
 	"User_privacy_policy": {
 		"message": "User privacy policy"
 	},
+	"Voice_Panel": {
+		"message": "Ses Paneli"
+	},
+	"Translate_Voice": {
+		"message": "Ses Çevir"
+	},
+	"Review______________________________________": {
+		"message": "Review                                      "
+	},
+	"Review_this": {
+		"message": "Review this"
+	},
+	"Developer_love_criticism": {
+		"message": "Developer love criticism"
+	},
+	"Coffee______________________________________": {
+		"message": "Kahve                                      "
+	},
+	"Support_this_extension": {
+		"message": "Bu uzantıyı destekleyin"
+	},
+	"Feed_a_coffee_to_the_extension_devs": {
+		"message": "Uzantı geliştiricilerine bir kahve verin"
+	},
 	"Title______________________________________": {
 		"message": "Title                                      "
+	},
+	"SELECT_OPTION______________________________": {
+		"message": "SEÇENEĞİ SEÇ                              "
+	},
+	"On": {
+		"message": "Açık"
+	},
+	"Off": {
+		"message": "Kapalı"
+	},
+	"Auto": {
+		"message": "Otomatik"
+	},
+	"None": {
+		"message": "Yok"
+	},
+	"Select": {
+		"message": "Seç"
+	},
+	"Mouseover": {
+		"message": "Fare Üstündeyken"
+	},
+	"Mouseover_n_Select": {
+		"message": "Üzerine Gel & Seç"
+	},
+	"Follow": {
+		"message": "Takip Et"
+	},
+	"Fixed": {
+		"message": "Düzeltildi"
+	},
+	"Top_Right": {
+		"message": "Top Right"
+	},
+	"Fade": {
+		"message": "Karart"
+	},
+	"Scale": {
+		"message": "Ölçek"
+	},
+	"Shift_away": {
+		"message": "Shift away"
+	},
+	"Shift_toward": {
+		"message": "Yaklaş"
+	},
+	"Perspective": {
+		"message": "Perspektif"
+	},
+	"Word": {
+		"message": "Kelime"
+	},
+	"Sentence": {
+		"message": "Cümle"
+	},
+	"Container": {
+		"message": "Kapsayıcı"
+	},
+	"Both": {
+		"message": "Both"
+	},
+	"Blacklist": {
+		"message": "Blacklist"
+	},
+	"Whitelist": {
+		"message": "Whitelist"
+	},
+	"Source": {
+		"message": "Kaynak"
+	},
+	"Source_Text": {
+		"message": "Kaynak Metin"
+	},
+	"Translated_Text": {
+		"message": "Çevirilmiş Metin"
+	},
+	"Source_n_Translated": {
+		"message": "Kaynak & Çeviri"
+	},
+	"Translated_n_Source": {
+		"message": "Çeviri & Kaynak"
+	},
+	"Dual_Subtitle": {
+		"message": "Çift Altyazı"
+	},
+	"Target_Single_Subtitle": {
+		"message": "Hedef Tek Altyazı"
+	},
+	"Source_Single_Subtitle": {
+		"message": "Kaynak Tek Altyazı"
+	},
+	"Always": {
+		"message": "Her Zaman"
+	},
+	"Center": {
+		"message": "Merkez"
+	},
+	"Left": {
+		"message": "Sol"
+	},
+	"Right": {
+		"message": "Sağ"
+	},
+	"Justify": {
+		"message": "Yasla"
+	},
+	"Default": {
+		"message": "Varsayılan"
+	},
+	"Ctrl_Left": {
+		"message": "Sol Control"
+	},
+	"Ctrl_Right": {
+		"message": "Sol Control"
+	},
+	"Alt_Left": {
+		"message": "Sol Alt"
+	},
+	"Alt_Right": {
+		"message": "Sağ Alt"
+	},
+	"Shift_Left": {
+		"message": "Sol Shift"
+	},
+	"Shift_Right": {
+		"message": "Sağ Shift"
+	},
+	"Meta_Left": {
+		"message": "Sol Meta"
+	},
+	"Meta_Right": {
+		"message": "Sağ Meta"
+	},
+	"Click_Left": {
+		"message": "Sol Tıkla"
+	},
+	"Click_Middle": {
+		"message": "Ortaya Tıkla"
+	},
+	"Click_Right": {
+		"message": "Sağ Tıkla"
+	},
+	"google": {
+		"message": "Google"
+	},
+	"bing": {
+		"message": "bing"
+	},
+	"Saved_Words": {
+		"message": "Saved Words"
+	},
+	"Group": {
+		"message": "Group"
+	},
+	"All": {
+		"message": "All"
+	},
+	"Move_to_group": {
+		"message": "Move to group"
+	},
+	"Delete": {
+		"message": "Delete"
+	},
+	"Clear": {
+		"message": "Clear"
+	},
+	"selected": {
+		"message": "selected"
+	},
+	"Date": {
+		"message": "Date"
+	},
+	"Translation": {
+		"message": "Translation"
+	},
+	"No_saved_words_yet": {
+		"message": "No saved words yet"
+	},
+	"Manage_Groups": {
+		"message": "Manage Groups"
+	},
+	"Remove_all": {
+		"message": "Remove all"
+	},
+	"Import_CSV": {
+		"message": "Import CSV"
+	},
+	"Download_CSV": {
+		"message": "Download CSV"
+	},
+	"Save_key": {
+		"message": "Save key"
+	},
+	"Highlight_on_page": {
+		"message": "Highlight on page"
+	},
+	"Right_click_menu": {
+		"message": "Right click menu"
+	},
+	"Add_right_click_context_menu": {
+		"message": "Add right click context menu"
+	},
+	"Done": {
+		"message": "Done"
+	},
+	"On_Select": {
+		"message": "On Select"
+	},
+	"On_Hover": {
+		"message": "On Hover"
+	},
+	"On_Select_n_Hover": {
+		"message": "On Select n Hover"
+	},
+	"Select_group_to_play": {
+		"message": "Select group to play"
+	},
+	"No_Group_Selected": {
+		"message": "No Group Selected"
+	},
+	"Check_groups_to_play": {
+		"message": "Check groups to play"
+	},
+	"Flashcard_makes_cards_from_your_saved_words": {
+		"message": "Flashcard makes cards from your saved words"
 	},
 	"appName": {
 		"message": "Fare araç ipucu çevirmen with Dual Subtitle"
 	},
 	"appDesc": {
 		"message": "Fare araç ipucu çevirmen google çevirisini kullanarak mouseover metnini çevir"
+	},
+	"Main______________________________________": {
+		"message": "Main                                      "
+	},
+	"Text_Detect_Type": {
+		"message": "Text Detect Type"
+	},
+	"OCR_Detection_Language": {
+		"message": "OCR Detection Language"
+	},
+	"Visual______________________________________": {
+		"message": "Visual                                      "
+	},
+	"Voice______________________________________": {
+		"message": "Voice                                      "
+	},
+	"TTS_Speed": {
+		"message": "TTS Speed"
+	},
+	"TTS_Volume": {
+		"message": "TTS Volume"
+	},
+	"Translate_Writing_Hotkey": {
+		"message": "Translate Writing Hotkey"
+	},
+	"Detect_Type_Swap_Hold_Key": {
+		"message": "Detect Type Swap Hold Key"
+	},
+	"Enable_Youtube_Subtitle": {
+		"message": "Enable Youtube Subtitle"
 	}
 }
